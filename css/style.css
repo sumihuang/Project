@@ -1,0 +1,13 @@
+body{  
+  font-family: "Helvetica Neue",Helvetica,"Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",sans-serif;}
+span{color:blue;}
+.Z{text-align:center;
+   width:600px;
+   margin: auto;
+   margin-top:100px;
+   cursor:pointer;
+}
+input{float:right;}
+p{width:200px;
+  margin:0 auto;}
+#CNT{color:red;}
